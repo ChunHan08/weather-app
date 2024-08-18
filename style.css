@@ -1,12 +1,12 @@
 body {
-  background-color: #dfe7ee;
   line-height: 1.5;
   font-size: 125%;
   display: flex;
   font-family: sans-serif;
+  background-image: linear-gradient(to right top, #baa291, #64b7e0);
 }
 .container {
-  background-color: #fff;
+  background-image: linear-gradient(to right top, #632874, #318698);
   padding: 0 4.5em 7em;
   margin: 1em auto 0 auto;
   -webkit-filter: drop-shadow(0 1em 1em rgba(0, 0, 0, 0.1));
@@ -33,7 +33,7 @@ h1 {
   line-height: 2.2rem;
   height: 30vh;
   text-align: center;
-  color: #23313e;
+  color: white;
   font-weight: bold;
 }
 .temp {
